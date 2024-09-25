@@ -1,11 +1,11 @@
 [![MasterHead]()]()
 <h1 align="center">Hi 👋, I'm Chulakshi Wijesinghe</h1>
 <h3 align="center"> Engineering undergraduate at SLTC Research University | Information & Communication Engineering |Passionate FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.21kschool.com%2Fin%2Fblog%2Fgirls-cant-code-and-myths%2F&psig=AOvVaw2KEJw1OSCvxC61xPs8D-_g&ust=1727349795593000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiKg8z93YgDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/q7x14jiNAnrU4ez2A">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chulakshi-wijesinghe-4ba77a324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chulakshi-wijesinghe-4ba77a324" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chulakshi-wijesinghe-4ba77a324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chulakshi-wijesinghe-4ba77a324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
