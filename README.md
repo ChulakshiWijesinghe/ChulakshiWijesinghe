@@ -1,11 +1,10 @@
 [![MasterHead]()]()
 <h1 align="center">Hi 👋, I'm Chulakshi Wijesinghe</h1>
-<h3 align="center"> Engineering undergraduate at SLTC Research University | Information & Communication Engineering |Passionate FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw19byOTe1N5Udd6S9vl5o6_&ust=1727349897673000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDlhoL-3YgDFQAAAAAdAAAAABAE">
+<h3 align="center">Currently pursuing my degree as an Information and Communication undergraduate. Passionate about full-stack development, telecommunication and Data Science.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chulakshi-wijesinghe-4ba77a324" target="blank"><img align="center" src="https://www.linkedin.com/in/chulakshi-wijesinghe-4ba77a324" alt="https://www.linkedin.com/in/chulakshi-wijesinghe-4ba77a324" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chulakshi-wijesinghe-4ba77a324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chulakshi-wijesinghe-4ba77a324" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
