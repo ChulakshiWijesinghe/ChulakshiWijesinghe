@@ -1,4 +1,4 @@
-[![MasterHead]()]()
+[![MasterHead](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)]()
 <h1 align="center">Hi 👋, I'm Chulakshi Wijesinghe</h1>
 <h3 align="center">Engineering undergraduate at SLTC Research University | A passionate Full Stack Developer</h3>
 
