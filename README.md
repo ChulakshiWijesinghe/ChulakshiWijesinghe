@@ -3,7 +3,9 @@
 <h3 align="center">Engineering undergraduate at SLTC Research University | A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chulakshiwijesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chulakshiwijesinghe" /> </p>
-<p align="center"> <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="" /> </p>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="" width="300" height="auto" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
