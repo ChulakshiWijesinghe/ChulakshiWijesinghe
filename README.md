@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chulakshi Wijesinghe</h1>
-<h3 align="center">Engineering undergraduate at SLTC Research University | Information & Communication Engineering | Software Development | Telecommunication | Networking | Data Science.</h3>
+<h3 align="center">Engineering undergraduate at SLTC Research University | Information & Communication Engineering | Software Development | Telecommunication | Networking | Data Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
