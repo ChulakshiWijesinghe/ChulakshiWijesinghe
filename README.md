@@ -1,6 +1,6 @@
 [![MasterHead](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)]()
 <h1 align="center">Hi 👋, I'm Chulakshi Wijesinghe</h1>
-<h3 align="center">Engineering undergraduate at SLTC Research University | A passionate Full Stack Developer</h3>
+<h3 align="center">Engineering undergraduate at SLTC Technology Campus | A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chulakshiwijesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="chulakshiwijesinghe" /> </p>
 <p align="center">
